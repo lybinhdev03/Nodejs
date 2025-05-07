@@ -1,0 +1,24 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "lybinhdev fullstack backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lybinhdev03/Nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "lybinhdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lybinhdev03/Nodejs/issues"
+  },
+  "homepage": "https://github.com/lybinhdev03/Nodejs#readme"
+}
